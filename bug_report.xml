@@ -1,0 +1,12 @@
+<root>
+  <ID>BR-14</ID>
+  <Title>What?Where?When?</Title>
+  <Severity>Minor</Severity>
+  <Priority>Medium</Priority>
+  <Precondition>Preparation steps</Precondition>
+  <Environment>Devices</Environment>
+  <STR>Steps to restore</STR>
+  <ER>Expected result</ER>
+  <AR>Actual Result</AR>
+  <Attachment>link</Attachment>
+</root>
