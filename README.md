@@ -15,7 +15,9 @@
 
  3. Внутри локального XML создать файл “new.xml” 
 
- <code> <b>cd XML/</b> </code>  <code> <b>touch new.xml</b> </code>
+ <code> <b>cd XML/</b> </code>  
+ 
+ <code> <b>touch new.xml</b> </code>
 
  4. Добавить файл под гит 
  
